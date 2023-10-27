@@ -6,6 +6,7 @@
 
 - [ ] My changes adhere to the code style of this project
 - [ ] I have performed a self review of my code
+- [ ] I have validated my UI against Figma designs
 - [ ] I have considered adding a feature flag for this work
 - [ ] I have considered manually testing this work
 - [ ] I have updated the documentation as required
